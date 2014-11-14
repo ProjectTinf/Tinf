@@ -4,6 +4,7 @@ body {
     margin: 0px;
     padding: 0px;
     background-color: #FFDD00;
+	font-family: Ubuntu;
 }
 
 nav {
@@ -21,7 +22,6 @@ nav ul li {
 }
 
 nav ul li a {
-	font-family: Ubuntu;
 	font-size: 16pt;
 	color: #333333;
 	text-decoration: none;
@@ -37,8 +37,9 @@ footer {
 	bottom: 0;
 	width: 100%;
 	background-color: #FFA600;
+	padding: 5px 0px;
 }
 
 footer span {
-	padding: 3px 3px;
+	margin-left: 10px;
 }

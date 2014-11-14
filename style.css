@@ -1,5 +1,14 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,300,300italic,400italic,500,500italic,700,700italic&subset=latin,greek-ext);
+
 body {
     margin: 0px;
     padding: 0px;
     background-color: #72B8D6;
+}
+
+nav ul li a {
+	font-family: Ubuntu;
+	font-size: 12pt;
+	color: #888888;
+	text-decoration: none;
 }

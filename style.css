@@ -3,16 +3,42 @@
 body {
     margin: 0px;
     padding: 0px;
-    background-color: #72B8D6;
+    background-color: #FFDD00;
+}
+
+nav {
+	background-color: #FFA600;
+}
+
+nav ul {
+	padding: 10px;
 }
 
 nav ul li {
 	display: inline;
+	padding: 3px;
+	margin: 0px 5px;
 }
 
 nav ul li a {
 	font-family: Ubuntu;
-	font-size: 12pt;
-	color: #888888;
+	font-size: 16pt;
+	color: #333333;
 	text-decoration: none;
+	transition: 0.5s;
+}
+
+nav ul li a:hover {
+	color: #EEEEEE;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	background-color: #FFA600;
+}
+
+footer span {
+	padding: 3px 3px;
 }

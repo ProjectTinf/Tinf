@@ -3,12 +3,12 @@
 body {
     margin: 0px;
     padding: 0px;
-    background-color: #FFDD00;
+    background-image: url('images/bg.png');
 	font-family: Ubuntu;
 }
 
 nav {
-	background-color: #FFA600;
+	background-image: url('images/banner.jpg');
 }
 
 nav ul {
@@ -23,23 +23,24 @@ nav ul li {
 
 nav ul li a {
 	font-size: 16pt;
-	color: #333333;
+	color: #d0d0d0;
 	text-decoration: none;
 	transition: 0.5s;
 }
 
 nav ul li a:hover {
-	color: #EEEEEE;
+	color: #ffffff;
 }
 
 footer {
 	position: absolute;
 	bottom: 0;
 	width: 100%;
-	background-color: #FFA600;
+	background-color: #002752;
 	padding: 5px 0px;
 }
 
 footer span {
+	color: #dfdfdf;
 	margin-left: 10px;
 }

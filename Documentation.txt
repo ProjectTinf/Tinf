@@ -1,2 +1,3 @@
 14.11.2014, Johannes: Documentation.txt erstellt
 14.11.2014, Florian: Zur Kenntnis genommen
+14.11.2014, Florian: Grundgerüst geschrieben (HTML / CSS)

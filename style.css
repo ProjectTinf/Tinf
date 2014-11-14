@@ -6,6 +6,10 @@ body {
     background-color: #72B8D6;
 }
 
+nav ul li {
+	display: inline;
+}
+
 nav ul li a {
 	font-family: Ubuntu;
 	font-size: 12pt;

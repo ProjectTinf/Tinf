@@ -2,3 +2,4 @@
 14.11.2014, Florian: Zur Kenntnis genommen
 14.11.2014, Florian: Grundgerüst geschrieben (HTML / CSS)
 14.11.2014, Florian: Die HTML-Dateien für die einzelnen Fächer eingerichtet
+15.11.2014, Florian: Startseite komplett neu designed

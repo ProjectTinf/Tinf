@@ -126,28 +126,28 @@ footer span {
 	text-align: justify;
 	width: 300px;
 	float: left;
-	margin: 0px 60px;
+	margin: 0px 5% 0px 15%;
 }
 
 .content .article_2 { /* REDUNDANZ muss verbessert werden*/
 	text-align: justify;
 	width: 300px;
 	float: left;
-	margin: 0px 60px;
+	margin: 0px 5%;
 }
 
 .content .article_3 {
 	text-align: justify;
 	width: 300px;
 	float: left;
-	margin: 0px 60px;
+	margin: 0px 5%;
 }
 
 .content .article_4 {
 	text-align: justify;
 	width: 300px;
 	float: left;
-	margin: 0px 60px;
+	margin: 0px 5%;
 }
 
 a {

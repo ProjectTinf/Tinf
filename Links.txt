@@ -1,0 +1,41 @@
+Fächermenüs:
+* Englisch:
+o Wörterbücher:
+* http://dict.leo.org/ende/index_de.html
+* http://www.dict.cc/
+* http://dict.tu-chemnitz.de/
+o Hilfen und Übungen:
+* http://www.englisch-hilfen.de/
+* http://www.multilingual.de/
+* http://www.ego4u.de/
+
+* Mathematik:
+o Video:
+* https://www.youtube.com/watch?v=zF09rkKzJoE 
+o Formeln:
+* http://members.chello.at/gut.jutta.gerhard/formeln.htm
+* http://www.formelsammlung-mathe.de/
+* http://www.mathe-formeln.de/
+o Übungen:
+* http://www.mathe-online.at/tests.html
+* http://www.matheaufgaben.net/mathe-online/
+* http://www.mathe-trainer.com/mathematik-aufgaben/
+
+* Programmieren:
+o Lernen:
+* http://www.tutorials.at/
+* http://www.codecademy.com/de
+* http://java.kompf.de/
+* http://www.java-tutorial.org/ 
+o Lernen + Üben:
+* http://www.gailer-net.de/tutorials/java/java-toc.html
+* http://panjutorials.de/tutorials/java-programmieren-fur-anfanger/
+
+
+* Informatik:
+o Lernen:
+* http://www.lern-online.net/informatik/
+o Lernen + Üben:
+* http://www.easy4me.info/
+* http://www.sofatutor.com/informatik
+* http://www.allgemeinbildung.ch/fach=inf/=inf.htm

@@ -1,41 +1,52 @@
 Fächermenüs:
 * Englisch:
-o Wörterbücher:
-* http://dict.leo.org/ende/index_de.html
-* http://www.dict.cc/
-* http://dict.tu-chemnitz.de/
-o Hilfen und Übungen:
-* http://www.englisch-hilfen.de/
-* http://www.multilingual.de/
-* http://www.ego4u.de/
+	o Video:
+		* https://www.youtube.com/watch?v=HIOKkrpc4x4
+	o Wörterbücher:
+		* http://dict.leo.org/ende/index_de.html
+		* http://www.dict.cc/
+		* http://dict.tu-chemnitz.de/
+	o Hilfen und Übungen:
+		* http://www.englisch-hilfen.de/
+		* http://www.multilingual.de/
+		* http://www.ego4u.de/
 
 * Mathematik:
-o Video:
-* https://www.youtube.com/watch?v=zF09rkKzJoE 
-o Formeln:
-* http://members.chello.at/gut.jutta.gerhard/formeln.htm
-* http://www.formelsammlung-mathe.de/
-* http://www.mathe-formeln.de/
-o Übungen:
-* http://www.mathe-online.at/tests.html
-* http://www.matheaufgaben.net/mathe-online/
-* http://www.mathe-trainer.com/mathematik-aufgaben/
+	o Video:
+		* https://www.youtube.com/watch?v=zF09rkKzJoE 
+	o Formeln:
+		* http://members.chello.at/gut.jutta.gerhard/formeln.htm
+		* http://www.formelsammlung-mathe.de/
+		* http://www.mathe-formeln.de/
+	o Übungen:
+		* http://www.mathe-online.at/tests.html
+		* http://www.matheaufgaben.net/mathe-online/
+		* http://www.mathe-trainer.com/mathematik-aufgaben/
 
 * Programmieren:
-o Lernen:
-* http://www.tutorials.at/
-* http://www.codecademy.com/de
-* http://java.kompf.de/
-* http://www.java-tutorial.org/ 
-o Lernen + Üben:
-* http://www.gailer-net.de/tutorials/java/java-toc.html
-* http://panjutorials.de/tutorials/java-programmieren-fur-anfanger/
+	o Video (1.Schritt):
+		* https://www.youtube.com/watch?v=MPJkanq4qzM
+		* (Batch programmieren) https://www.youtube.com/watch?v=KXItZN5pdYU
+		* https://www.youtube.com/watch?v=SNTzJU6DRk4
+	o Lernen:
+		* http://www.tutorials.at/
+		* http://www.codecademy.com/de
+		* http://java.kompf.de/
+		* http://www.java-tutorial.org/ 
+	o Lernen + Üben:
+		* http://www.gailer-net.de/tutorials/java/java-toc.html
+		* http://panjutorials.de/tutorials/java-programmieren-fur-anfanger/
 
 
 * Informatik:
-o Lernen:
-* http://www.lern-online.net/informatik/
-o Lernen + Üben:
-* http://www.easy4me.info/
-* http://www.sofatutor.com/informatik
-* http://www.allgemeinbildung.ch/fach=inf/=inf.htm
+	o Video:
+		* https://www.youtube.com/watch?v=ldBsf7qJCMI
+	o Video(Not, And, Or):
+		* https://www.youtube.com/watch?v=6LmtyQcFwZw
+		* https://www.youtube.com/watch?v=DIuy9fyB7EU
+	o Lernen:
+		* http://www.lern-online.net/informatik/
+	o Lernen + Üben:
+		* http://www.easy4me.info/
+		* http://www.sofatutor.com/informatik
+		* http://www.allgemeinbildung.ch/fach=inf/=inf.htm
